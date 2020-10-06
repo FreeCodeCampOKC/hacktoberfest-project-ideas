@@ -10,6 +10,10 @@ Kimberly created a [Who's Who Game](https://github.com/FreeCodeCampOKC/hacktober
 ## fccokc.com Revamp
 The current website is made of plain HTML files, which means there is a lot of duplicated code across every single page (e.g. the navbar needing to be changed on every page whenever it needs to be updated). We can consider moving the website over to a static site generator like [Eleventy](https://11ty.dev) to make things a little more DRY. The [repo](https://github.com/FreeCodeCampOKC/fccokc_web_advanced) has been created but it is still empty for now.
 
+## Forem Repo
+This is the repo to the Forem codebase, the platform that powers dev.to. It has a Rails backend, and is currently transitioning to a Preact-first frontend. Multiple opportunities to contribute to this open source software. [Forem repo](https://github.com/forem/forem)
+
+
 ## Have an idea? Add it here!
 If you have an idea you'd like to work on, feel free to add it here! To do so:
 1. Fork this repo using the "Fork" button at the top right of the screen
