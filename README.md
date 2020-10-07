@@ -13,6 +13,9 @@ The current website is made of plain HTML files, which means there is a lot of d
 ## Forem Repo
 This is the repo to the Forem codebase, the platform that powers dev.to. It has a Rails backend, and is currently transitioning to a Preact-first frontend. Multiple opportunities to contribute to this open source software. [Forem repo](https://github.com/forem/forem)
 
+## New Techlahoma Member Onboarding
+An idea to have a site to point to for new members that find their way to Techlahoma. Some kind of link like onboarding.fccokc.com which would be a semi-interactive walkthrough of the various resources and services we use. Intro to how to get on Slack and how to find channels, Meetup.com, etc.
+
 
 ## Have an idea? Add it here!
 If you have an idea you'd like to work on, feel free to add it here! To do so:
