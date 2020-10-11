@@ -16,7 +16,8 @@ This is the repo to the Forem codebase, the platform that powers dev.to. It has 
 ## New Techlahoma Member Onboarding
 An idea to have a site to point to for new members that find their way to Techlahoma. Some kind of link like onboarding.fccokc.com which would be a semi-interactive walkthrough of the various resources and services we use. Intro to how to get on Slack and how to find channels, Meetup.com, etc.
 
-
+## Code For Tulsa's CourtBot
+Code For Tulsa's CourtBot experimental Python implementation. If you would like to contribute to CourtBot checkout their github issues page. [CourtBot Python Issues](https://github.com/codefortulsa/courtbot-python/issues)
 ## Have an idea? Add it here!
 If you have an idea you'd like to work on, feel free to add it here! To do so:
 1. Fork this repo using the "Fork" button at the top right of the screen
