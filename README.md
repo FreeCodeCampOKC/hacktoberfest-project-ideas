@@ -5,7 +5,7 @@ A collection of project ideas to work together on for Hacktoberfest. Feel free t
 We currently have [this page](https://speakers-wanted.techlahoma.org/) that is driven by GitHub issues with a basic front end. We could improve on this or create a new version using a real back end to practice writing basic CRUD operations with a nicer front end design.
 
 ## Who's Who
-Kimberly created a [Who's Who Game](https://github.com/FreeCodeCampOKC/hacktoberfest-project-ideas/blob/main/README.md) where you select the correct combination of first and last names given a photo. We could use more pictures and names. We could also consider creating a new version with a real back end to set the amount of choices and photos to guess for one round depending on difficulty.
+Kimberly created a [Who's Who Game](https://whos-who.fccokc.com) where you select the correct combination of first and last names given a photo. We could use more pictures and names. We could also consider creating a new version with a real back end to set the amount of choices and photos to guess for one round depending on difficulty. To contribute to the game and to add your name, click here for the repository: [Who's Who Repository](https://github.com/FreeCodeCampOKC/techlahoma-whos-who)
 
 ## fccokc.com Revamp
 The current website is made of plain HTML files, which means there is a lot of duplicated code across every single page (e.g. the navbar needing to be changed on every page whenever it needs to be updated). We can consider moving the website over to a static site generator like [Eleventy](https://11ty.dev) to make things a little more DRY. The [repo](https://github.com/FreeCodeCampOKC/fccokc_web_advanced) has been created but it is still empty for now.
